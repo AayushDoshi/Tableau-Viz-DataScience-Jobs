@@ -13,9 +13,9 @@ To access the Tableau visualization, please follow these steps:
 Download and install Tableau Desktop or use Tableau Public.
 Open Tableau and navigate to the "Connect" section.
 
-Import the ds_salaries.csv file as a data source.
+1. Import the ds_salaries.csv file as a data source.
 
-Once the data is loaded, you can explore various visualizations and dashboards that provide insights into the salary data.
+2. Once the data is loaded, you can explore various visualizations and dashboards that provide insights into the salary data.
 
 The Tableau visualization was created by referring to an online tutorial, which helped in understanding the techniques and best practices for creating effective data visualizations. By leveraging Tableau's powerful features, the visualization offers a different perspective on the data and enhances the analysis.
 
